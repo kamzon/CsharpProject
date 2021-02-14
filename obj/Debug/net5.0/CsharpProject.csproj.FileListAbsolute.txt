@@ -1,0 +1,16 @@
+/home/kamzon/2021/2021/projects/CsharpProject/bin/Debug/net5.0/CsharpProject
+/home/kamzon/2021/2021/projects/CsharpProject/bin/Debug/net5.0/CsharpProject.deps.json
+/home/kamzon/2021/2021/projects/CsharpProject/bin/Debug/net5.0/CsharpProject.runtimeconfig.json
+/home/kamzon/2021/2021/projects/CsharpProject/bin/Debug/net5.0/CsharpProject.runtimeconfig.dev.json
+/home/kamzon/2021/2021/projects/CsharpProject/bin/Debug/net5.0/CsharpProject.dll
+/home/kamzon/2021/2021/projects/CsharpProject/bin/Debug/net5.0/ref/CsharpProject.dll
+/home/kamzon/2021/2021/projects/CsharpProject/bin/Debug/net5.0/CsharpProject.pdb
+/home/kamzon/2021/2021/projects/CsharpProject/obj/Debug/net5.0/CsharpProject.csprojAssemblyReference.cache
+/home/kamzon/2021/2021/projects/CsharpProject/obj/Debug/net5.0/CsharpProject.GeneratedMSBuildEditorConfig.editorconfig
+/home/kamzon/2021/2021/projects/CsharpProject/obj/Debug/net5.0/CsharpProject.AssemblyInfoInputs.cache
+/home/kamzon/2021/2021/projects/CsharpProject/obj/Debug/net5.0/CsharpProject.AssemblyInfo.cs
+/home/kamzon/2021/2021/projects/CsharpProject/obj/Debug/net5.0/CsharpProject.csproj.CoreCompileInputs.cache
+/home/kamzon/2021/2021/projects/CsharpProject/obj/Debug/net5.0/CsharpProject.dll
+/home/kamzon/2021/2021/projects/CsharpProject/obj/Debug/net5.0/ref/CsharpProject.dll
+/home/kamzon/2021/2021/projects/CsharpProject/obj/Debug/net5.0/CsharpProject.pdb
+/home/kamzon/2021/2021/projects/CsharpProject/obj/Debug/net5.0/CsharpProject.genruntimeconfig.cache
